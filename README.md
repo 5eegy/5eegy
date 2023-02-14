@@ -1,6 +1,6 @@
 # Hello there, welcome 👋🏾
 
-<h1 align="center">Hi 👋, Owzbi</h1>
+<h1 align="left">Hi 👋, Owzbi</h1>
 
 I'm a Software Developer, who is currently working hard to be a world class Engineer. I'm passionate about sharing knowledge, documentation, web engineering, Jamstack, headless commerce, and others.
 
