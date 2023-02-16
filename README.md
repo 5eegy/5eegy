@@ -1,6 +1,6 @@
 # Hello there, welcome 👋🏾
 
-<h4 align="left">This is Owzbi</h4>
+<h4 align="left">This is Seego</h4>
 
 I'm a Software Developer, who is currently working hard to be a world class Engineer. I'm passionate about sharing knowledge, documentation, web engineering, Jamstack, headless commerce, and others.
 
@@ -14,7 +14,7 @@ I'm a Software Developer, who is currently working hard to be a world class Engi
 
 - 📫 How to reach me **owosgn@gmail.com**
 
-<p align="left"> <a href="https://twitter.com/owzbi" target="blank"><img src="https://img.shields.io/twitter/follow/owzbi?logo=twitter&style=for-the-badge" alt="owzbi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/seego" target="blank"><img src="https://img.shields.io/twitter/follow/owzbi?logo=twitter&style=for-the-badge" alt="owzbi" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
