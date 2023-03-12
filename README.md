@@ -2,7 +2,7 @@
 
 <h4 align="left">This is Seego</h4>
 
-I'm a Software Developer, who is currently working hard to be a world class Engineer. I'm passionate about sharing knowledge, documentation, web engineering, Jamstack, headless commerce, and others.
+I'm a Software Developer, who is currently working hard to be a world class Engineer. I'm passionate about sharing knowledge, documentation, web engineering, Jamstack, headless CMS, and others.
 
 **Here's a quick summary about me**:
 
