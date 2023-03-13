@@ -13,7 +13,7 @@ I'm a Software Developer, who is currently working hard to be a world class Engi
 - 💬 Ask me about **React, Tailwind CSS, Javascript, Typescript and things under the React eco-system**
 
 - 📫 How to reach me **segunowo247@gmail.com**
-- my <a href="https://twitter.com/seego" target="blank">Resume</a>
+- my <a href="https://drive.google.com/file/d/1P4mTd2TdVp7CiF1JbzVY7HZkw5jcFiaW/view" target="blank">Resume</a>
 
 <p align="left"> <a href="https://twitter.com/seego" target="blank"><img src="https://img.shields.io/twitter/follow/seego?logo=twitter&style=for-the-badge" alt="seego" /></a> </p>
 
@@ -32,4 +32,4 @@ I'm a Software Developer, who is currently working hard to be a world class Engi
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seegocode&show_icons=true&locale=en" alt="seego code" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seegocode&" alt="seego code" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seegocode&" alt="seego code" /></p> -->
