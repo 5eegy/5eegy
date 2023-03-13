@@ -32,4 +32,4 @@ I'm a Software Developer, who is currently working hard to be a world class Engi
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seegocode&show_icons=true&locale=en" alt="seego code" /></p>
 
-<p><img align="center" src="[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)" alt="seego code" /></p>
+<p><img align="center" src="[![GitHub Streak](https://streak-stats.demolab.com/?user=seegocode)](https://git.io/streak-stats)" alt="seego code" /></p>
