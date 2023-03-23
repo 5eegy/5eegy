@@ -7,7 +7,7 @@ I'm a Software Developer, who is currently working hard to be a world class Engi
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 🌱 I’m currently learning TypeScript and Next JS.
+- 🌱 I’m currently learning TypeScript and NodeJS.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
 - 💬 Ask me about **React, Tailwind CSS, Javascript, Typescript and things under the React eco-system**
