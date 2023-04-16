@@ -1,6 +1,6 @@
 # Hello there, welcome 👋🏾
 
-<h4 align="left">This is Seego</h4>
+<h4 align="left">This is Segow</h4>
 
 I'm a Software Developer, who is currently working hard to be a world class Engineer. I'm passionate about sharing knowledge, documentation, web engineering, Jamstack, headless CMS, and others.
 
@@ -15,11 +15,11 @@ I'm a Software Developer, who is currently working hard to be a world class Engi
 - 📫 How to reach me **segunowo247@gmail.com**
 - my <a href="https://drive.google.com/file/d/1P4mTd2TdVp7CiF1JbzVY7HZkw5jcFiaW/view" target="_blank">Resume</a>
 
-<p align="left"> <a href="https://twitter.com/seego" target="_blank"><img src="https://img.shields.io/twitter/follow/seego?logo=twitter&style=for-the-badge" alt="seego" /></a> </p>
+<p align="left"> <a href="https://twitter.com/1segow" target="_blank"><img src="https://img.shields.io/twitter/follow/1segow?logo=twitter&style=for-the-badge" alt="seego" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/seego" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="seego" height="30" width="40" /></a>
+<a href="https://twitter.com/1segow" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sego" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,8 +28,8 @@ I'm a Software Developer, who is currently working hard to be a world class Engi
 <a href="https://reactjs.org" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seegow&show_icons=true&locale=en&layout=compact" alt="seego code" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=segowo&show_icons=true&locale=en&layout=compact" alt="seego code" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seegow&show_icons=true&locale=en" alt="seego code" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=segowo&show_icons=true&locale=en" alt="seego code" /></p>
 
-<p><img align="center" src="[![GitHub Streak](https://streak-stats.demolab.com/?user=seegow)](https://git.io/streak-stats)" alt="seego code" /></p>
+<p><img align="center" src="[![GitHub Streak](https://streak-stats.demolab.com/?user=segowo)](https://git.io/streak-stats)" alt="seego code" /></p>
