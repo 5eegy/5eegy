@@ -5,21 +5,19 @@
 I'm a Software Developer, who is currently working hard to be a world class Engineer. I'm passionate about sharing knowledge, documentation, web engineering, Jamstack, headless CMS, and others.
 
 **Here's a quick summary about me**:
-
-- 😊 Pronouns: He/him
-- 🌱 I’m currently learning TypeScript and NextJS.
+- 🌱 I’m currently learning TypeScript and Nodejs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
-- 💬 Ask me about **React, Tailwind CSS, Javascript, Typescript and things under the React eco-system**
+- 💼 Job interests: Software Engineer, Front Engineer, Web developer, or UI Engineer (Intern or Junior level).
+- 💬 Ask me about **React, Tailwind CSS, Javascript, Typescript and things under the javascript eco-system**
 
 - 📫 How to reach me **segunowo247@gmail.com**
 - my <a href="https://drive.google.com/file/d/1yt_yk46vo5R79KjOSZ2I7F2OgFlHcRIB/view" target="_blank">Resume</a>
 
-<p align="left"> <a href="https://twitter.com/segy_o" target="_blank"><img src="https://img.shields.io/twitter/follow/segy_o?logo=twitter&style=for-the-badge" alt="segy" /></a> </p>
+<p align="left"> <a href="https://twitter.com/segy__" target="_blank"><img src="https://img.shields.io/twitter/follow/segy?logo=twitter&style=for-the-badge" alt="segy" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/segy_o" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="seego" height="30" width="40" /></a>
+<a href="https://twitter.com/segy_-" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="seego" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
