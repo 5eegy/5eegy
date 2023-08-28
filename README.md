@@ -13,7 +13,7 @@ I'm a Software Developer, who is currently working hard to be a world class Engi
 - 📫 How to reach me **segunowo247@gmail.com**
 - my <a href="https://drive.google.com/file/d/1yt_yk46vo5R79KjOSZ2I7F2OgFlHcRIB/view" target="_blank">Resume</a>
 
-<p align="left"> <a href="https://twitter.com/seego" target="_blank"><img src="https://img.shields.io/twitter/follow/segy?logo=twitter&style=for-the-badge" alt="segy" /></a> </p>
+<p align="left"> <a href="https://twitter.com/seego" target="_blank"><img src="https://img.shields.io/twitter/follow/SehG?logo=twitter&style=for-the-badge" alt="segy" />Seh'G</a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
