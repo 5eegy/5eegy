@@ -26,8 +26,8 @@ I'm a Software Developer, who is currently working hard to be a world class Engi
 <a href="https://reactjs.org" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=5egy&show_icons=true&locale=en&layout=compact" alt="segy code" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seh-g&show_icons=true&locale=en&layout=compact" alt="segy code" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=5egy&show_icons=true&locale=en" alt="segy code" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seh-g&show_icons=true&locale=en" alt="segy code" /></p>
 
-<p><img align="center" src="[![GitHub Streak](https://streak-stats.demolab.com/?user=5egy)](https://git.io/streak-stats)" alt="seego code" /></p>
+<p><img align="center" src="[![GitHub Streak](https://streak-stats.demolab.com/?user=seh-g)](https://git.io/streak-stats)" alt="seego code" /></p>
