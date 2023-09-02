@@ -5,7 +5,7 @@
 I'm a Software Developer, who is currently working hard to be a world class Engineer. I'm passionate about sharing knowledge, documentation, web engineering, Jamstack, headless CMS, System design and others.
 
 **Here's a quick summary about me**:
-- 🌱 I’m currently learning Typescript and Nodejs.
+- 🌱 I’m currently exploring backend development with Nodejs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, Web developer, or UI Engineer (Intern or Junior level).
 - 💬 Ask me about **React, Tailwind CSS, Javascript, Typescript and things under the javascript eco-system**
