@@ -30,4 +30,5 @@ I'm a Software Developer, who is currently working hard to be a world class Engi
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seh-g&show_icons=true&locale=en" alt="sehgy code" /></p>
 
-<p><img align="center" src="[![GitHub Streak](https://streak-stats.demolab.com/?user=seh-g)](https://git.io/streak-stats)" alt="sehgy code" /></p>
+//<p><img align="center" src="[![GitHub Streak](https://streak-stats.demolab.com/?user=seh-g)](https://git.io/streak-stats)" alt="sehgy code" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=DenverCoder1)](https://git.io/streak-stats)
