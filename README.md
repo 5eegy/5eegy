@@ -13,7 +13,7 @@ I'm a Software Developer, who is currently working hard to be a world class Engi
 - 📫 How to reach me **segunowo247@gmail.com**
 - my <a href="https://drive.google.com/file/d/19fMVTRg2jat4lAvn4O26DbHo5zuUPrlT/view?usp=drive_open" target="_blank">Resume</a>
 
-<p align="left"> <a href="https://twitter.com/_sehg" target="_blank"><img src="https://img.shields.io/twitter/follow/Seego?logo=twitter&style=for-the-badge" alt="seego" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_sehg" target="_blank"><img src="https://img.shields.io/twitter/follow/Seh'G?logo=twitter&style=for-the-badge" alt="seego" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,6 +28,6 @@ I'm a Software Developer, who is currently working hard to be a world class Engi
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seh-g&show_icons=true&locale=en&layout=compact" alt="seego code" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seego&show_icons=true&locale=en" alt="seego code" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seh-g&show_icons=true&locale=en" alt="seego code" /></p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=seh-g)](https://git.io/streak-stats)
