@@ -1,6 +1,6 @@
 # Hello there, welcome 👋🏾
 
-<h4 align="left">This is Seego</h4>
+<h4 align="left">This is Seh'G</h4>
 
 I'm a Software Developer, who is currently working hard to be a world class Engineer. I'm passionate about sharing knowledge, documentation, web engineering, Jamstack, headless CMS, System design and others.
 
@@ -13,11 +13,11 @@ I'm a Software Developer, who is currently working hard to be a world class Engi
 - 📫 How to reach me **segunowo247@gmail.com**
 - my <a href="https://drive.google.com/file/d/19fMVTRg2jat4lAvn4O26DbHo5zuUPrlT/view?usp=drive_open" target="_blank">Resume</a>
 
-<p align="left"> <a href="https://twitter.com/seego" target="_blank"><img src="https://img.shields.io/twitter/follow/Seego?logo=twitter&style=for-the-badge" alt="seego" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_sehg" target="_blank"><img src="https://img.shields.io/twitter/follow/Seego?logo=twitter&style=for-the-badge" alt="seego" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/seego" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="seego" height="30" width="40" /></a>
+<a href="https://twitter.com/_sehg" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="seego" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
