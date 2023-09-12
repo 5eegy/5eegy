@@ -10,7 +10,7 @@ I'm a Software Developer, who is currently working hard to be a world class Engi
 - 💼 Job interests: Software Engineer, Front Engineer, Web developer, or UI Engineer (Intern or Junior level).
 - 💬 Ask me about **React, Tailwind CSS, Javascript, Typescript and things under the javascript eco-system**
 
-- 📫 How to reach me **segunowo247@gmail.com**
+- 📫 How to reach me **segunowo247@gmail.com** 
 - my <a href="https://drive.google.com/file/d/19fMVTRg2jat4lAvn4O26DbHo5zuUPrlT/view?usp=drive_open" target="_blank">Resume</a>
 
 <p align="left"> <a href="https://twitter.com/_sehg" target="_blank"><img src="https://img.shields.io/twitter/follow/Seh'G?logo=twitter&style=for-the-badge" alt="seego" /></a> </p>
