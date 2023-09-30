@@ -32,4 +32,4 @@ I'm a Software Developer, who is currently working hard to be a world class Engi
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sehgy)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=5eegy)](https://git.io/streak-stats)
