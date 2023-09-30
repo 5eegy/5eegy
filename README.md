@@ -28,7 +28,7 @@ I'm a Software Developer, who is currently working hard to be a world class Engi
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sehgy&show_icons=true&locale=en&layout=compact" alt="King Seh'G" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sehgy&show_icons=true&locale=en" alt="seego code" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=5eegy&show_icons=true&locale=en" alt="seego code" /></p>
 
 
 
