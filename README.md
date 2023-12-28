@@ -1,6 +1,6 @@
 # Hello there, welcome 👋🏾
 
-<h4 align="left">This is Segy</h4>
+<h4 align="left">This is Sego</h4>
 
 I'm a Software Developer, who is currently working hard to be a world class Engineer. I'm passionate about sharing knowledge, documentation, web engineering, Jamstack, headless CMS, System design and others.
 
